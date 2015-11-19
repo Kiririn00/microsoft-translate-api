@@ -100,9 +100,9 @@ Class HTTPTranslator {
 
 try {
     //Client ID of the application.
-    $clientID       = "endopasmic";
+    $clientID       = "";
     //Client Secret key of the application.
-    $clientSecret = "s4XUyYyTNW2+bgKoh7UbHtMYXjyKsON5pQ+EgyitxXs=";
+    $clientSecret = "";
     //OAuth Url.
     $authUrl      = "https://datamarket.accesscontrol.windows.net/v2/OAuth2-13/";
     //Application Scope Url
